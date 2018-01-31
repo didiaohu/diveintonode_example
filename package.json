@@ -1,0 +1,22 @@
+{
+  "name": "diveintonode_example",
+  "version": "1.0.0",
+  "description": "《深入浅出Node.js》的相关代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didiaohu/diveintonode_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didiaohu/diveintonode_example/issues"
+  },
+  "homepage": "https://github.com/didiaohu/diveintonode_example#readme",
+  "dependencies": {
+    "mime": "^2.2.0"
+  }
+}
